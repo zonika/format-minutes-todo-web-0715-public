@@ -1,9 +1,4 @@
----
-tags: time, string, number, todo, conditionals, control flow
-languages: ruby 
-resources: 1
-level: intermediate 
----
+
 
 # Format Minutes
 
