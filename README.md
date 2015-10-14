@@ -15,7 +15,7 @@ time_formatter(65)
 
 time_formatter(167)
 # => 2 hour(s), 47 minute(s)
-```
+
 
 ## Pointers
 
